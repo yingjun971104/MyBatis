@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59091afb-7c29-4ec1-aa3c-6502072a5392" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mybatis-config" />
+        <option value="Interface" />
+        <option value="mybatis-mapper" />
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Development\apache-maven-3.8.1\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Development/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\Development\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EbeMMBze23PH70ewxoEOb4ekLZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/WorkSpaces/IDEA_WorkSpaces/Genzon",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="GlassfishConfiguration" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HelloMybatis.test2">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloMybatis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.st.web.HelloMybatis" />
+      <module name="MyBatis_Demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.st.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloMybatis.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatis_Demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.st.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.st.web" />
+      <option name="MAIN_CLASS_NAME" value="com.st.web.HelloMybatis" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParameterMapperTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatis_Demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.st.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.st" />
+      <option name="MAIN_CLASS_NAME" value="com.st.ParameterMapperTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParameterMapperTest.test05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatis_Demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.st.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.st" />
+      <option name="MAIN_CLASS_NAME" value="com.st.ParameterMapperTest" />
+      <option name="METHOD_NAME" value="test05" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParameterMapperTest.test07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatis_Demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.st.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.st" />
+      <option name="MAIN_CLASS_NAME" value="com.st.ParameterMapperTest" />
+      <option name="METHOD_NAME" value="test07" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ParameterMapperTest.test07" />
+        <item itemvalue="JUnit.ParameterMapperTest.test05" />
+        <item itemvalue="JUnit.ParameterMapperTest.test01" />
+        <item itemvalue="JUnit.HelloMybatis.test2" />
+        <item itemvalue="Application.HelloMybatis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\admin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59091afb-7c29-4ec1-aa3c-6502072a5392" name="Default Changelist" comment="" />
+      <created>1662868662778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662868662778</updated>
+      <workItem from="1662868664491" duration="20000" />
+      <workItem from="1662868687486" duration="34000" />
+      <workItem from="1662868724154" duration="37000" />
+      <workItem from="1662868764154" duration="8044000" />
+      <workItem from="1662880537007" duration="5117000" />
+      <workItem from="1663120179222" duration="2811000" />
+      <workItem from="1689413772670" duration="720000" />
+      <workItem from="1689414513175" duration="103000" />
+      <workItem from="1689414833266" duration="2521000" />
+      <workItem from="1689421377535" duration="93000" />
+      <workItem from="1689687584863" duration="72000" />
+      <workItem from="1690954706300" duration="449000" />
+      <workItem from="1692782708053" duration="3353000" />
+      <workItem from="1692841697922" duration="10379000" />
+      <workItem from="1692862814888" duration="623000" />
+      <workItem from="1692863461595" duration="19375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/MyBatis_Demo1/src/test/java/com/st/ParameterMapperTest.java</url>
+          <line>48</line>
+          <properties class="com.st.ParameterMapperTest" method="test03">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/MyBatis_Demo1/src/main/java/com/st/web/HelloMybatis.java</url>
+          <line>83</line>
+          <properties class="com.st.web.HelloMybatis" method="test2">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MyBatis_Demo1/src/main/java/com/st/web/HelloMybatis.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
