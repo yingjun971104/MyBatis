@@ -22,6 +22,7 @@ public class HelloMybatis {
 
 		List list = new ArrayList<String>();
 
+		Integer integer = 10;
 
 		String f = "";
 
